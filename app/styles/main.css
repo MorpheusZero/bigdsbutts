@@ -75,3 +75,9 @@ html, body {
   border-radius:10px;
   background-color:whitesmoke;
 }
+
+.menu-container {
+  border: solid 1px;
+  border-radius: 20px;
+  padding:12px;
+}

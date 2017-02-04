@@ -5,6 +5,5 @@ angular.module('lynxSeedApp', [
     'ngSanitize',
     'ngTouch',
     'app-config',
-    'app-constants',
-    'menu-app'
+    'app-constants'
   ]);

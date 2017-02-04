@@ -6,8 +6,8 @@ angular.module('app-config', ['ngRoute'])
     .when('/', {
       templateUrl: 'views/main.html'
     })
-    .when('/menu', {
-      templateUrl: 'views/menu.html'
+    .when('/debug', {
+      templateUrl: 'views/debug.html'
     })
     .otherwise({
       templateUrl: '404.html'
