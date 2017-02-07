@@ -2,5 +2,6 @@
 
 angular.module('menu-app', [
   'menu-layout',
-  'menu'
+  'menu',
+  'menu-group'
 ]);

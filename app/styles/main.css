@@ -5,12 +5,12 @@ html, body {
 
 .main-header {
   margin-top:-20px;
-  background: url("../images/big_ds_ribs2.jpg") no-repeat center center;
-  height:350px;
+  background: url("../images/bigd_family.jpg") no-repeat top center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  min-height: 650px;
   position:relative;
 }
 
@@ -22,11 +22,11 @@ html, body {
   position: absolute;
   text-align: center;
   margin:20px auto;
-  background: rgba(233, 238, 242, 0.7);
+  background: rgba(233, 238, 242, 0.45);
 }
 
 .caption > h2 {
-  font-size: 2vw;
+  font-size: 1.5em;
 }
 
 .business-card {
