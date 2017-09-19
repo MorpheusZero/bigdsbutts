@@ -1,0 +1,6 @@
+@import '../../../assets/sass/variables';
+@import '../../../assets/sass/mixins';
+
+.home-layout {
+  @include page-layout;
+}

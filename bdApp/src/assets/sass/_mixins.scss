@@ -1,0 +1,13 @@
+@import './variables';
+
+/*
+All main page containers
+ */
+@mixin page-layout {
+  display: block;
+  margin: 0 auto;
+  width: 95%;
+  border: 0.1rem solid $material-dark;
+  padding: 1.5rem;
+  box-shadow: 0.2rem 0.2rem 0.4rem $gray-light;
+}
